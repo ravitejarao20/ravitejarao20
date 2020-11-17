@@ -30,4 +30,4 @@ Hi, I'm Raviteja, a data enthusiast 🚀 from India, completed 🎓 PGP in Data 
 <code><img height="20" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Abhinandan's github stats](https://github-readme-stats.vercel.app/api?username=abhinandanrai&show_icons=true&hide_border=true)
+![Raviteja's github stats](https://github-readme-stats.vercel.app/api?username=ravitejarao20&show_icons=true&hide_border=true)
