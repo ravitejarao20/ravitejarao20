@@ -10,7 +10,7 @@
   <img align="left" alt="Raviteja's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=.ravitejarao20)
+![](https://visitor-badge.glitch.me/badge?page_id=ravitejarao20.ravitejarao20)
 
 Hi, I'm Raviteja, a data enthusiast 🚀 from India, completed 🎓 PGP in Data Science & Engineering from 🙍🏽‍♂️ <code><img height="20" src="https://d9jmtjs5r4cgq.cloudfront.net/images/branding/greatlearning-brand.png"></code> [@greatlearning](https://www.greatlearning.in/) this year, and looking for a full-time role in Data Science, Machine Learning or related field.
 
