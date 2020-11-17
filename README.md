@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/raviteja-m-028962182/">
   <img align="left" alt="Raviteja's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
+<a href="https://www.instagram.com/abhinandan_rai_/">
+  <img align="left" alt="Abhinandan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 </a>
 <a href="https://www.kaggle.com/ravitejarao">
