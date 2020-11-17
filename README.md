@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**ravitejarao20/ravitejarao20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/abhinandanrai/">
+  <img align="left" alt="Abhinandan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/abhinandanrai_">
+  <img align="left" alt="Abhinandan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/abhinandan_rai_/">
+  <img align="left" alt="Abhinandan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://medium.com/@abhinandanrai">
+  <img align="left" alt="Abhinandan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://www.kaggle.com/abhinandanrai">
+  <img align="left" alt="Abhinandan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=abhinandanrai.abhinandanrai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Abhinandan Rai, a data enthusiast 🚀 from India, completed 🎓 PGP in Data Science & Engineering from 🙍🏽‍♂️ <code><img height="20" src="https://d9jmtjs5r4cgq.cloudfront.net/images/branding/greatlearning-brand.png"></code> [@greatlearning](https://www.greatlearning.in/) this year, and looking for a full-time role in Data Science, Machine Learning or related field.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l4JzdwJ33hz12Gw6s/giphy.gif" />
+
+**Talking about Personal Stuffs:**
+- 👨🏽‍💻 I’m Currently working on some cool Machine Learning projects :wink:
+- 🌱 I’m currently learning DL and NLP
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: abhinandan9rai@gmail.com
+
+**Languages and Tools:**   
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
+<code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![Abhinandan's github stats](https://github-readme-stats.vercel.app/api?username=abhinandanrai&show_icons=true&hide_border=true)
