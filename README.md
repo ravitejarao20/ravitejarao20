@@ -10,7 +10,7 @@
   <img align="left" alt="Raviteja's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 
-<a href="https://www.kaggle.com/ravitejarao">
+ href="https://www.kaggle.com/ravitejarao">
   <img align="left" alt="Raviteja's Medium" width="22px" src="https://www.google.com/search?q=machinehack+logo&sxsrf=ALeKk038i5Ec5k5B4rY_DWwonc5DDepPag:1605687594014&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXhaW11IvtAhULSX0KHSH5CnkQ_AUoAXoECAgQAw&biw=1600&bih=786#imgrc=awPF6zmfw5NV5M" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ravitejarao20.ravitejarao20)
